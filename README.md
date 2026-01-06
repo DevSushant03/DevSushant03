@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+%7C%20TypeScript%20%7C%20Next.js;Building%20real-world%20products%2C%20not%20just%20demos;Always%20learning%20and%20shipping%20fast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack%20%7C%20TypeScript%20%7C%20Next.js;Building%20real-world%20products%2C%20not%20just%20demos;Always%20learning%20and%20shipping%20fast" />
 </p>
 
 ---
@@ -87,32 +87,44 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Neon)
 
+<!-- Main stats -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DevSushant03&show_icons=true&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88&bg_color=000000&border_color=00FF88" 
-    alt="GitHub Stats" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DevSushant03&show_icons=true&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88&bg_color=000000&border_color=00FF88&hide_border=false"
+    alt="Sushant's GitHub stats"
   />
 </p>
 
+<!-- Streak stats (use the recommended demo domain if old one breaks) -->
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=DevSushant03&background=000000&ring=00FF88&fire=00FF88&currStreakLabel=FFFFFF&sideNums=00FF88&sideLabels=FFFFFF&dates=00FF88&stroke=00FF88" 
-    alt="GitHub Streak" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=DevSushant03&background=000000&ring=00FF88&fire=00FF88&currStreakLabel=FFFFFF&sideNums=00FF88&sideLabels=FFFFFF&dates=00FF88&stroke=00FF88"
+    alt="Sushant's GitHub streak"
   />
 </p>
+
+<!-- If streak image breaks often, switch to this newer domain:
+https://github-readme-streak-stats-eight.vercel.app?user=DevSushant03&theme=highcontrast
+-->
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://devsushant03.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF88" />
+  </a>
+  <a href="https://www.linkedin.com/in/sushant-nachanekar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
   </a>
   <a href="https://github.com/DevSushant03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF88" />
+  </a>
+  <a href="https://www.instagram.com/mr__sushant__030" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF5CBA" />
   </a>
 </p>
 
