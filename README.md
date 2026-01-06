@@ -87,29 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats (Neon)
-
-<!-- Main stats -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DevSushant03&show_icons=true&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88&bg_color=000000&border_color=00FF88&hide_border=false"
-    alt="Sushant's GitHub stats"
-  />
-</p>
-
-<!-- Streak stats (use the recommended demo domain if old one breaks) -->
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=DevSushant03&background=000000&ring=00FF88&fire=00FF88&currStreakLabel=FFFFFF&sideNums=00FF88&sideLabels=FFFFFF&dates=00FF88&stroke=00FF88"
-    alt="Sushant's GitHub streak"
-  />
-</p>
-
-<!-- If streak image breaks often, switch to this newer domain:
-https://github-readme-streak-stats-eight.vercel.app?user=DevSushant03&theme=highcontrast
--->
-
----
 
 ## 🌐 Connect With Me
 
