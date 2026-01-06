@@ -97,9 +97,7 @@
   <a href="https://www.linkedin.com/in/sushant-nachanekar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
   </a>
-  <a href="https://github.com/DevSushant03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF88" />
-  </a>
+
   <a href="https://www.instagram.com/mr__sushant__030" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF5CBA" />
   </a>
