@@ -9,8 +9,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack%20%7C%20TypeScript%20%7C%20Next.js;Building%20real-world%20products%2C%20not%20just%20demos;Always%20learning%20and%20shipping%20fast" />
-   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+ </p>
 
 ---
 
@@ -107,6 +106,6 @@
 ---
 ![OpenReadme](https://raw.githubusercontent.com/ravixalgorithm/openreadme-images/main/profiles/2f7f74c15c3e.png)
 <p align="center">
-  
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer&text=Code%20with%20purpose%20%E2%80%A2%20Build%20with%20impact&fontSize=20&fontColor=000000" />
 </p>
